@@ -1,0 +1,19 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Node modules (caso use Node)
+node_modules/
+
+# Logs
+*.log
+
+# Pastas de build ou distribuição
+dist/
+build/
+
+# Arquivos temporários do editor
+*.swp
+*.swo
+*.tmp
+*.bak
